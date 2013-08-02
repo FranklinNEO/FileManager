@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">File Manager</string>
+    <string name="explorer_list">Sort by list</string>
+    <string name="explorer_icon">Sort by icon</string>
+    <string name="rename_file">Rename</string>
+    <string name="create_folder">Create folder</string>
+    <string name="delete_file">Delete</string>
+    <string name="copy_file">Copy</string>
+    <string name="cut_file">Cut</string>
+    <string name="paste_file">Paste</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="input_dialog_title">Input folder name</string>
+    <string name="create_folder_error">"Fail to create folder</string>
+    <string name="rename_folder_error">"Fail to rename folder</string>
+    <string name="download_no_sdcard_dlg_title">No SD card</string>
+    <string name="download_no_sdcard_dlg_msg">An SD card is required to insert!</string>
+    <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
+    <string name="download_sdcard_busy_dlg_msg">The SD card is busy. To allow access, select \"Turn off USB storage\" in the notification.</string>
+    <string name="conflict_error">the file in SD card</string>
+    <string name="repeate_folder_error">the file has exist</string>
+    <string name="empty">Filelist is Empty</string>
+    <string name="edit_mode">Edit mode</string>
+    <string name="normal_mode">Normal mode</string>
+
+</resources>
